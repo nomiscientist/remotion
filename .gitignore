@@ -7,8 +7,6 @@ coverage
 */**/.env
 .cache
 packages/example/out
-.env
-.vscode/taskmarks.json
 .turbo
 .vercel
 packages/compositor/target
@@ -32,3 +30,4 @@ packages/example/build
 packages/example-without-zod/build
 packages/docs/out
 packages/cloudrun/container/ensure-browser.mjs
+config.bat
